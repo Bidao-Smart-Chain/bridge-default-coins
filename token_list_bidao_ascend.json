@@ -1,0 +1,127 @@
+{
+  "name": "Bidao Default",
+  "timestamp": "2023-04-27T00:37:47.225Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+  ],
+  "tokens": [
+    {
+      "name": "ChainLink Token on Bidao Smart Chain",
+      "address": "0x27E3739810BeF95E6ae01E4B4BF65b947dB434CF",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    },
+    {
+      "name": "Wrapped Bitcoin on Bidao Smart Chain",
+      "address": "0xd04ac33576f61562088a3477ffe8f170abd8e15c",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/ethereum/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/logo.png"
+    },
+    {
+      "name": "Wrapped Tron on Bidao Smart Chain",
+      "address": "0x0e4e8b70e655575fb82371a93062c4f761ae1ced",
+      "symbol": "TRX",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://w7.pngwing.com/pngs/303/414/png-transparent-tron-cryptocurrency-blockchain-ethereum-bitcoin-tron-angle-triangle-logo.png"
+    },
+    {
+      "name": "Matic Token on Bidao Smart Chain",
+      "address": "0x53f056664a2e7df361ea9ad9b899c3448fcbd1c8",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://etherscan.io/token/images/matictoken_28.png"
+    },
+    {
+      "name": "IOSToken on Bidao Smart Chain",
+      "address": "0x740ac97996b94bb436c5530a7abc17e3ca6d531b",
+      "symbol": "IOST",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2405.png"
+    },
+    {
+      "name": "Ontology Network Token on Bidao Smart Chain",
+      "address": "0x4297b92fef39fa1700fa3b468a013a7a67a0b6b3",
+      "symbol": "ONT",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2566.png"
+    },
+    {
+      "name": "Wrapped Dash on Bidao Smart Chain",
+      "address": "0x4bd5a6de883581cb9052582781ab89116d2e5c5f",
+      "symbol": "DASH",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://media.dash.org/wp-content/uploads/dash-d.png"
+    },
+    {
+      "name": "VeChain Token on Bidao Smart Chain",
+      "address": "0xeb99370ef90cd50e1c42d723de7203313d620e61",
+      "symbol": "VEN",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/VeChain-VEN-icon.png"
+    },
+    {
+      "name": "DAO Maker on Bidao Smart Chain",
+      "address": "0x010d28d93f75b58b1d1d2ee32d47f24533423968",
+      "symbol": "DAO",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://img.api.cryptorank.io/ido-platforms/dao_maker1617200987249.png"
+    },
+    {
+      "name": "Bidao on Bidao Smart Chain",
+      "address": "0xbf3db6178d8a3f0d1655e120187410df09007149",
+      "symbol": "BID",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://assets.coingecko.com/coins/images/12596/small/bidao.png"
+    },
+    {
+      "name": "Qtum on Bidao Smart Chain",
+      "address": "0x398b180d2ca50f277a0b81249c640154baa70c6d",
+      "symbol": "QTUM",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://w7.pngwing.com/pngs/823/950/png-transparent-qtum-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment-icon.png"
+    },
+    {
+      "name": "HUSD on Bidao Smart Chain",
+      "address": "0x54d00c48ce1d465ebfd0f3d5851f30270c23781a",
+      "symbol": "HUSD",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://cryptologos.cc/logos/husd-husd-logo.png"
+    },
+    {
+      "name": "USDT on Bidao Smart Chain",
+      "address": "0x0d4b70a4228a94a05464123ff7498c893c37e434",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "USDC on Bidao Smart Chain",
+      "address": "0xf8ce85698f1c77191d8f5901d7801b8b31c814cf",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    }
+  ]
+}
