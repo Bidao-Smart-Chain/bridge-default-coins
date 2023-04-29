@@ -1,0 +1,127 @@
+{
+  "name": "Sepolia Default",
+  "timestamp": "2023-04-27T00:37:47.225Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+  ],
+  "tokens": [
+    {
+      "name": "ChainLink Token",
+      "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "address": "0x279dd4e13945bcc1125d9d24542d5803d01d2c71",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/ethereum/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/logo.png"
+    },
+    {
+      "name": "Wrapped Tron",
+      "address": "0x1504d76cd9910d455cb96c58c7c9b39709e65dcc",
+      "symbol": "TRX",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://w7.pngwing.com/pngs/303/414/png-transparent-tron-cryptocurrency-blockchain-ethereum-bitcoin-tron-angle-triangle-logo.png"
+    },
+    {
+      "name": "Matic Token",
+      "address": "0x7E2E5CF0BF3E7d65e3d00619175b35440F1C24bc",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://etherscan.io/token/images/matictoken_28.png"
+    },
+    {
+      "name": "IOSToken",
+      "address": "0x3C8F4EED8523e9035501C8A04eAE8A714dbeED67",
+      "symbol": "IOST",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2405.png"
+    },
+    {
+      "name": "Ontology Network Token",
+      "address": "0x5adfed5CaFD38CF7711F629af1A754E6FE6830f1",
+      "symbol": "ONT",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2566.png"
+    },
+    {
+      "name": "Wrapped Dash",
+      "address": "0x7BBB89B5f637F07f24DE6AAD87cA8a6d90a41137",
+      "symbol": "DASH",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://media.dash.org/wp-content/uploads/dash-d.png"
+    },
+    {
+      "name": "VeChain Token",
+      "address": "0x532FEB18de6965c287F15493F7178401aB2a1912",
+      "symbol": "VEN",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/VeChain-VEN-icon.png"
+    },
+    {
+      "name": "DAO Maker",
+      "address": "0x810A90Cc781fe6c132bd387E89Fd00e6642A27E9",
+      "symbol": "DAO",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://img.api.cryptorank.io/ido-platforms/dao_maker1617200987249.png"
+    },
+    {
+      "name": "Bidao",
+      "address": "0x93A4f4B23a71871Ac10DB7bc9559804708D3D2e7",
+      "symbol": "BID",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://assets.coingecko.com/coins/images/12596/small/bidao.png"
+    },
+    {
+      "name": "Qtum",
+      "address": "0xd62EC75cf0f47d0015D279256e4500E4eA7dF0ED",
+      "symbol": "QTUM",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://w7.pngwing.com/pngs/823/950/png-transparent-qtum-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment-icon.png"
+    },
+    {
+      "name": "HUSD",
+      "address": "0x504224396c04d60D97c9f3Cf29907FD81b9bD609",
+      "symbol": "HUSD",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://cryptologos.cc/logos/husd-husd-logo.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0xCEcACFfAcB949dd632b5b735EBfC4342a4A3eE18",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0xA935AAbE0Fc7bB399B6261FE4dC49a255D6433b0",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    }
+  ]
+}
