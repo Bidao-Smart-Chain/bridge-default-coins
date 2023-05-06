@@ -122,6 +122,14 @@
       "decimals": 18,
       "chainId": 11155111,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0xC2633ED13C57d5Bd3875D38eF8157CD4B2385b10",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
     }
   ]
 }
