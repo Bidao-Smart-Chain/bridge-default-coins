@@ -130,6 +130,14 @@
       "decimals": 18,
       "chainId": 11155111,
       "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    },
+    {
+      "name": "XDC Network",
+      "address": "0x76a4bDb6E1DF7468a02554543B99620F9bb2fc80",
+      "symbol": "XDC",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png"
     }
   ]
 }
