@@ -124,12 +124,20 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
-      "name": "Wrapped BNB",
+      "name": "Wrapped BNB on Bidao Smart Chain",
       "address": "0xb35a1CdA99f227AEB855c2Bc6eED6AFcCfC325f7",
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 2119209,
       "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    },
+    {
+      "name": "XDC Network on Bidao Smart Chain",
+      "address": "0x7869Ba57054993c1b84BFfc0112186eF129bB4CD",
+      "symbol": "XDC",
+      "decimals": 18,
+      "chainId": 2119209,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png"
     }
   ]
 }
